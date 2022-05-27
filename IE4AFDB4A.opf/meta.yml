@@ -1,0 +1,108 @@
+id: IE4AFDB4A
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+source_file: null
+initial_creation_type: input
+imported: '2022-05-27T14:49:33.227869'
+last_modified: '2022-05-27T14:49:33.227886'
+parser: null
+source_metadata:
+  title: 'RK: Bodhisatvapiṭaka'
+  language: zh
+  base:
+    f4442:
+      title: Title
+      base_file: f4442.txt
+      order: 1
+    f9199:
+      title: Preface
+      base_file: f9199.txt
+      order: 2
+    f0A23:
+      title: CI_Folio 2a
+      base_file: f0A23.txt
+      order: 3
+    f094F:
+      title: CI_Folio 2b
+      base_file: f094F.txt
+      order: 4
+    f5B6D:
+      title: CI_Folio 3a
+      base_file: f5B6D.txt
+      order: 5
+    fD8EF:
+      title: CI_Folio 3b
+      base_file: fD8EF.txt
+      order: 6
+    fE01A:
+      title: CI_Folio 4a
+      base_file: fE01A.txt
+      order: 7
+    fD142:
+      title: CI_Folio 4b
+      base_file: fD142.txt
+      order: 8
+    f3916:
+      title: CI_Folio 5a
+      base_file: f3916.txt
+      order: 9
+    f92C5:
+      title: CI_Folio 5b
+      base_file: f92C5.txt
+      order: 10
+    fABA3:
+      title: CI_Folio 6a
+      base_file: fABA3.txt
+      order: 11
+    fB177:
+      title: 'Chapter 2: Kimbhīrayakṣa'
+      base_file: fB177.txt
+      order: 12
+    f87E0:
+      title: 'Chapter 3: Bodhisatvaparīkṣā'
+      base_file: f87E0.txt
+      order: 13
+    fFFC4:
+      title: 'Chapter 4: Tathāgatācintya'
+      base_file: fFFC4.txt
+      order: 14
+    f1BCD:
+      title: 'Chapter 5: Caturbrahmavihāra'
+      base_file: f1BCD.txt
+      order: 15
+    f9361:
+      title: 'Chapter 6: Dānapāramitā'
+      base_file: f9361.txt
+      order: 16
+    f38A3:
+      title: 'Chapter 7: Śīlapāramitā'
+      base_file: f38A3.txt
+      order: 17
+    f2256:
+      title: 'Chapter 8: Kṣāntipāramitā'
+      base_file: f2256.txt
+      order: 18
+    fF111:
+      title: 'Chapter 9: Vīryapāramitā'
+      base_file: fF111.txt
+      order: 19
+    fA628:
+      title: 'Chapter 10: Dhyānapāramitā'
+      base_file: fA628.txt
+      order: 20
+    f7907:
+      title: 'Chapter 11: Prajñāpāramitā'
+      base_file: f7907.txt
+      order: 21
+    f852E:
+      title: Colophon
+      base_file: f852E.txt
+      order: 22
+  chapter_to_tile:
+    CI: 'Chapter 1: Gṛhapati'
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
